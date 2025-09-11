@@ -1,22 +1,57 @@
-# USA Jobs Framework
+# Future Proof – USA – Jobs
 
-## Purpose
-This document outlines the **Future Proof – USA – Jobs** framework, integrating AI-driven evaluation, capability mapping, HR training databases, and resilience indices.
+## 📂 Module File Index
 
-## Core Principles
-- **Upgrade, not replace** → Skills are layered, not discarded.  
-- **Value Recycling** → Existing experience is repurposed into new contexts.  
-- **Public–Private Collaboration** → Companies, government, and schools co-invest in training.  
-- **Employment Firewall** → Build resilience against AI-driven disruption.
+### Modules
+- [AI_Skills_ReEvaluation.md](docs/modules/LORI-FUTUREJOBS/AI_Skills_ReEvaluation.md)
+AI-driven reassessment of worker skills, personality traits, and learning agility.
 
-## Modules
-- [AI Skills Re-Evaluation](AI_Skills_ReEvaluation.md)  
-- [Capability Map](Capability_Map.md)  
-- [HR Training Database](HR_Training_Database.md)  
-- [Resilience Index](ResilienceIndex.md)  
-- [Skill Upgrade Pipeline](SkillUpgrade_Pipeline.md)  
+- [Capability_Map.md](docs/modules/LORI-FUTUREJOBS/Capability_Map.md)
+Capability map aligning skills × personality to generate career path suggestions.
 
-## Expected Outcomes
-- Clearer career paths for workers.  
-- Reduced unemployment shocks.  
-- Stronger alignment between HR and market demands.  
+- [HR_Training_Database.md](docs/modules/LORI-FUTUREJOBS/HR_Training_Database.md)
+HR training database for storing profiles, assigning training, and tracking progress.
+
+- [ResilienceIndex.md](docs/modules/LORI-FUTUREJOBS/ResilienceIndex.md)
+Job resilience index to measure stability and automation risk in the AI era.
+
+- [SkillUpgrade_Pipeline.md](docs/modules/LORI-FUTUREJOBS/SkillUpgrade_Pipeline.md)
+Skill upgrade pipeline: structured pathways to layer and enhance existing abilities.
+
+- [USA-Jobs_Framework.md](docs/modules/LORI-FUTUREJOBS/USA-Jobs_Framework.md)
+The overall framework document for Future Proof – USA – Jobs.
+
+### Logs
+- [FutureJobs_DevLog.md](docs/logs/FutureJobs_DevLog.md)
+Development log to track module progress, decisions, and planned updates.
+
+---
+
+## 🌐 Overview
+The **Future Proof – USA – Jobs** framework is designed to protect and transform the U.S. workforce in the AI era.
+Its guiding principle is simple:
+
+> **“Jobs may disappear, but people’s skills do not. By layering and upgrading existing skills, displaced workers can generate new, reusable value.”**
+
+---
+
+## 🔑 Core Principles
+1. **Upgrade, Not Replace** – Workers remain relevant by building upon existing skills.
+2. **Value Recycling** – Past experience is repurposed into future job contexts.
+3. **Public–Private Collaboration** – Companies, governments, and schools co-invest in reskilling.
+4. **Employment Firewall** – A safeguard against AI-driven disruption.
+
+---
+
+## 📊 Module Overview
+- **AI Skills Re-Evaluation** → Tests & evaluates worker skills, traits, and adaptability.
+- **Capability Map** → Maps skill × personality combinations to career pathways.
+- **HR Training Database** → Stores worker training data and supports HR planning.
+- **Resilience Index** → Rates jobs on adaptability and automation risk.
+- **Skill Upgrade Pipeline** → Provides structured pathways for retraining and transitions.
+- **USA Jobs Framework** → Integrates all modules into a unified model.
+
+---
+
+## 📅 Development Log
+Ongoing development notes and updates are tracked in [`FutureJobs_DevLog.md`](docs/logs/FutureJobs_DevLog.md).
