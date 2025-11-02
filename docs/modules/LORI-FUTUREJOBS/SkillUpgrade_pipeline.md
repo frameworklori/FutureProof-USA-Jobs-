@@ -1,4 +1,4 @@
-Skill-Upgrade Pipeline (SUP)
+# Skill-Upgrade Pipeline (SUP)
 
 Version: 1.0
 © 2025 LORI Framework Creator – All Rights Reserved
