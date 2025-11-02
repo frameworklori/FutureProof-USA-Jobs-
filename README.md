@@ -73,6 +73,12 @@ Individuals maintain dignity and autonomy by choosing where they live, how they 
 
 ⸻
 
+### Folder: examples/
+Contains example submodules demonstrating how Future Jobs logic connects with AI evaluation and HR systems.
+- AI_Skills_ReEvaluation.md — skill assessment example
+- Capability_Map.md — mapping example
+- HR_Training_Database.md — HR data integration example
+
 🔒 License
 
 This project is governed by the LORI Future Jobs Module License v1.0
