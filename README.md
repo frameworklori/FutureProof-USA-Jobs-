@@ -8,7 +8,7 @@ Re-positioning Human Value in the Age of AI
 
 The **Future Proof – USA – Jobs** architecture visualizes how human potential, data ethics, and AI orchestration form a unified employment resilience ecosystem.
 
-![Future Proof Jobs Diagram](../../assets/images/futureproof_job.png)
+![Future Proof Jobs Diagram](../assets/images/futureproof_job.png)
 
 **Flow Summary**
 1. **Input Layer:** Workers submit CVs, skill tests, learning tasks, and consent metadata.  
