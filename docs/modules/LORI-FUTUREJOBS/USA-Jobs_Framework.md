@@ -15,7 +15,7 @@ HR training database for storing profiles, assigning training, and tracking prog
 ![ResilienceIndex.md](ResilienceIndex.md)
 Job resilience index to measure stability and automation risk in the AI era.
 
-![SkillUpgrade_Pipeline.md](SkillUpgrade_Pipeline.md)
+![SkillUpgrade_Pipeline.md](SkillUpgrade_pipeline.md)
 Skill upgrade pipeline: structured pathways to layer and enhance existing abilities.
 
 ![USA-Jobs_Framework.md](USA-Jobs_Framework.md)
