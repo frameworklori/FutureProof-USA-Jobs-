@@ -82,5 +82,5 @@ LORI-FUTUREJOBS/
 ---
 
 ## License
-See ![LICENSE_FutureJobs.md](LICENSE_FutureJobs.md) for details.
+See ![LICENSE_FutureJobs.md](../../LICENSE_FutureJobs.md) for details.
 
