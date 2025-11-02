@@ -12,27 +12,17 @@ Rather than forcing a complete career reset, it layers new competencies on top o
 
 Pipeline Stages
 
-Stage
-Description
-AI Integration
-1. Profile Ingestion
-Collects worker CVs, experience, and psychometric data.
-LORI–AI Trait Engine
-2. Gap Analysis
-Identifies knowledge and skill gaps versus emerging market needs.
-AI Skills Re-Evaluation
-3. Training Recommendation
-Suggests micro-courses or certification paths.
-Grok-LORI API
-4. Practical Apprenticeship
-Matches learners with paid practice programs.
-Public–Private Alliance
-5. Verification & Certification
-Final AI-assisted testing for job readiness.
-LORI Jury Evaluation
-6. Transition Placement
-Automated matching to new roles via Civic Ledger.
-Demand Matcher EnginePerformance Metrics
+
+| Stage  | Description | AI Integration|
+|-----------------|-----------------------------|----------------------------------------------------------------|
+|1. Profile Ingestion|Collects worker CVs, experience, and psychometric data.|LORI–AI Trait Engine|
+|2. Gap Analysis|Identifies knowledge and skill gaps versus emerging market needs.|AI Skills Re-Evaluation|
+|3. Training Recommendation|Suggests micro-courses or certification paths.|Grok-LORI API|
+|4. Practical Apprenticeship|Matches learners with paid practice programs.|Public–Private Alliance|
+|5. Verification & Certification|Final AI-assisted testing for job readiness.|LORI Jury Evaluation|
+|6. Transition Placement|Automated matching to new roles via Civic Ledger.|Demand Matcher Engine|
+
+Performance Metrics
 	•	Completion Rate (CR)
 	•	Post-Training Employment Rate (PER)
 	•	Income Recovery Ratio (IRR)
