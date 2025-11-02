@@ -3,7 +3,7 @@
 ## 📂 Module File Index
 
 ### Modules
-- [AI_Skills_ReEvaluation.md](docs/modules/LORI-FUTUREJOBS/AI_Skills_ReEvaluation.md)
+![AI_Skills_ReEvaluation.md](docs/modules/LORI-FUTUREJOBS/AI_Skills_ReEvaluation.md)
 AI-driven reassessment of worker skills, personality traits, and learning agility.
 
 - [Capability_Map.md](docs/modules/LORI-FUTUREJOBS/Capability_Map.md)
