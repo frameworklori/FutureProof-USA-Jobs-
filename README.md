@@ -4,6 +4,20 @@ Re-positioning Human Value in the Age of AI
 
 ⸻
 
+## 🧩 System Overview
+
+The **Future Proof – USA – Jobs** architecture visualizes how human potential, data ethics, and AI orchestration form a unified employment resilience ecosystem.
+
+![Future Proof Jobs Diagram](/images/futureproof_job.png)
+
+**Flow Summary**
+1. **Input Layer:** Workers submit CVs, skill tests, learning tasks, and consent metadata.  
+2. **AI Engines:** Assess traits, map capabilities, and match opportunities ethically.  
+3. **Data Layer:** Maintains secure profiles and training records.  
+4. **Feedback:** Continuous skill re-testing, on-the-job learning, and course updates.  
+5. **Policy Layer:** LORI Framework modules enforce eligibility, risk, and audit rules.
+
+
 🧭 Overview
 
 The LORI Future Jobs Module explores how human labor, displaced by automation, can be ethically and structurally re-channeled through decentralized work systems such as the LORI Remote Citizenship Model (LRCM).
