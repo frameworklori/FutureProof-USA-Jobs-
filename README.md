@@ -39,10 +39,15 @@ Instead of seeing automation as an end, this module defines a framework where:
 ⚙️ Module Architecture
 
 /docs/modules/LORI-FutureJobs/
+
  ├── LRCM_RemoteCitizenship.md
+ 
  ├── TaxFlow_Ledger.md
+ 
  ├── Global_ResourceExchange.md
+ 
  ├── Contribution_Contract_API.md
+ 
  └── EquityMultiplier_Pilot2026.md
 
 Each sub-module defines one dimension of the post-AI labor ecosystem: taxation, protection, mobility, and fairness.
