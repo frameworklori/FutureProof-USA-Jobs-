@@ -1,6 +1,6 @@
 # LORI-FUTUREJOBS: Future Proof – USA – Jobs
 
-# LORI-FUTUREJOBS / Module Documentation
+LORI-FUTUREJOBS / Module Documentation
 *(For internal reference — detailed structure of each component.)*
 
 ## Overview
