@@ -22,7 +22,7 @@ Skill upgrade pipeline: structured pathways to layer and enhance existing abilit
 The overall framework document for Future Proof – USA – Jobs.
 
 ### Logs
-![FutureJobs_DevLog.md](FutureJobs_DevLog.md)
+![FutureJobs_DevLog.md](./ogs/FutureJobs_DevLog.md)
 Development log to track module progress, decisions, and planned updates.
 
 ---
