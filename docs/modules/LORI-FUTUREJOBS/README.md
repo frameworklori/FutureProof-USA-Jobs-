@@ -1,5 +1,8 @@
 # LORI-FUTUREJOBS: Future Proof – USA – Jobs
 
+# LORI-FUTUREJOBS / Module Documentation
+*(For internal reference — detailed structure of each component.)*
+
 ## Overview
 **Future Proof – USA – Jobs** is a resilience-oriented employment framework designed to protect American workers in the AI era.
 Its core principle is simple:
