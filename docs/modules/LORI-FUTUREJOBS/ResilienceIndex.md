@@ -19,14 +19,10 @@ R = (H x 0.4 ) +(A x 0.3) + (S X 0.2) + (E x 0.1)
 
 | Variable  | Definition | 
 |-----------------|---------------------------------------------------------------------------------------------|
-| H |
-Human-Facing Intensity (communication, empathy, creativity)|
-| A |
-Adaptability Rate (how easily the role can absorb new tools)|
-| S |
-Skill Transfer Potential (Cross-industry mobility)|
-| E |
-Economic Necessity (socio-economic dependency factor)|
+| H |Human-Facing Intensity (communication, empathy, creativity)|
+| A |Adaptability Rate (how easily the role can absorb new tools)|
+| S |Skill Transfer Potential (Cross-industry mobility)|
+| E |Economic Necessity (socio-economic dependency factor)|
 
 Scores range from 0–100.
 	•	80–100 → Highly resilient
