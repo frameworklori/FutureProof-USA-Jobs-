@@ -43,7 +43,7 @@ This index lists practical case studies demonstrating how existing worker skills
 ### Framework Integration
 These cases directly interact with the following modules:
 - [Capability_Map.md](../Capability_Map.md)
-- [SkillUpgrade_Pipeline.md](../SkillUpgrade_Pipeline.md)
+- [SkillUpgrade_Pipeline.md](../SkillUpgrade_pipeline.md)
 - [ResilienceIndex.md](../ResilienceIndex.md)
 - [PublicPrivate_Alliance.md](../PublicPrivate_Alliance.md)
 
