@@ -6,23 +6,23 @@
 ![AI_Skills_ReEvaluation.md](AI_Skills_ReEvaluation.md)
 AI-driven reassessment of worker skills, personality traits, and learning agility.
 
-- [Capability_Map.md](docs/modules/LORI-FUTUREJOBS/Capability_Map.md)
+![Capability_Map.md](Capability_Map.md)
 Capability map aligning skills × personality to generate career path suggestions.
 
-- [HR_Training_Database.md](docs/modules/LORI-FUTUREJOBS/HR_Training_Database.md)
+![HR_Training_Database.md](HR_Training_Database.md)
 HR training database for storing profiles, assigning training, and tracking progress.
 
-- [ResilienceIndex.md](docs/modules/LORI-FUTUREJOBS/ResilienceIndex.md)
+![ResilienceIndex.md](ResilienceIndex.md)
 Job resilience index to measure stability and automation risk in the AI era.
 
-- [SkillUpgrade_Pipeline.md](docs/modules/LORI-FUTUREJOBS/SkillUpgrade_Pipeline.md)
+![SkillUpgrade_Pipeline.md](SkillUpgrade_Pipeline.md)
 Skill upgrade pipeline: structured pathways to layer and enhance existing abilities.
 
-- [USA-Jobs_Framework.md](docs/modules/LORI-FUTUREJOBS/USA-Jobs_Framework.md)
+![USA-Jobs_Framework.md](USA-Jobs_Framework.md)
 The overall framework document for Future Proof – USA – Jobs.
 
 ### Logs
-- [FutureJobs_DevLog.md](docs/logs/FutureJobs_DevLog.md)
+![FutureJobs_DevLog.md](FutureJobs_DevLog.md)
 Development log to track module progress, decisions, and planned updates.
 
 ---
