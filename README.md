@@ -1,4 +1,4 @@
-LORI Future Jobs Module
+# LORI Future Jobs Module
 
 Re-positioning Human Value in the Age of AI
 
