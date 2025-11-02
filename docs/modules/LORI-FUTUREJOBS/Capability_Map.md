@@ -16,23 +16,14 @@ By visualizing these transitions, this map allows policymakers, HR systems, and 
 
 Conceptual Overview
 
-Dimension
-Description
-Example
-Foundational Skills
-Cognitive and behavioral abilities that remain stable across jobs.
-Communication, Critical Thinking
-Applied Skills
-Technical or procedural abilities used in specific industries.
-Machine Operation, Data Entry
-Adaptive Traits
-Learning agility, resilience, and emotional intelligence.
-Receptivity to AI tools, Problem-solving under uncertainty
-Emergent Capabilities
-Cross-domain synthesis skills that merge human creativity with AI precision.
-Prompt Engineering, Ethical Mediation, System 
+| Dimension  | Description |Example|
+|-----------------|-----------------------------|----------------------------------------------------------------|
+|Foundational Skills|Cognitive and behavioral abilities that remain stable across jobs.|Communication, Critical Thinking|
+|Applied Skills|Technical or procedural abilities used in specific industries.|Machine Operation, Data Entry|
+|Adaptive Traits|Learning agility, resilience, and emotional intelligence.|Receptivity to AI tools, Problem-solving under uncertainty|
+|Emergent Capabilities|Cross-domain synthesis skills that merge human creativity with AI precision.|Prompt Engineering, Ethical Mediation, System integration|
 
-Architecture Flow
+Architecture Flowi
 
 flowchart TD
 
@@ -43,6 +34,7 @@ flowchart TD
     D --> E2[SkillUpgrade_Pipeline]
     E1 --> F[National Dashboard]
     E2 --> G[Personalized Transition Pathways]
+	
 Explanation:
 	1.	Worker Profile data (CVs, psychometrics, performance records) enters the AI engine.
 	2.	Capability Extraction Engine identifies overlapping strengths between jobs.
@@ -54,21 +46,13 @@ Explanation:
 
 Technical Components
 
-Module
-Function
-Data Source
-Capability Extraction Engine
-Uses NLP & ontology-based classification to group skill tokens.
-CVs, job databases
-Skill–Trait Fusion Model
-Connects psychological profiles to learning and adaptability metrics.
-AI_Skills_ReEvaluation module
-Mapping Matrix
-3D relational map between traits, skills, and potential job clusters.
-Training DB, ResilienceIndex
-Feedback Layer
-Monitors progression after training or redeployment.
-PublicPrivate_Alliance
+|Module  |Function |Data Source|
+|-----------------|-----------------------------|----------------------------------------------------------------|
+|Capability Extraction Engine|Uses NLP & ontology-based classification to group skill tokens.|CVs, job databases|
+|Skill–Trait Fusion Model|Connects psychological profiles to learning and adaptability metrics.|AI_Skills_ReEvaluation module|
+|Mapping Matrix|3D relational map between traits, skills, and potential job clusters.|Training DB, ResilienceIndex|
+|Feedback Layer|Monitors progression after training or redeployment.|PublicPrivate_Alliance|
+
 Practical Application
 	•	Governments can identify sectors with underutilized skill clusters.
 	•	Companies can design cross-role training programs to retain displaced staff.
