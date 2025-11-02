@@ -16,15 +16,16 @@ Index Formula
 
 R = (H x 0.4 ) +(A x 0.3) + (S X 0.2) + (E x 0.1)
 
-Variable 
-Definition
-H
+
+| Variable  | Definition | 
+|-----------------|---------------------------------------------------------------------------------------------|
+H |
 Human-Facing Intensity (communication, empathy, creativity)
-A
+A |
 Adaptability Rate (how easily the role can absorb new tools)
-S
+S | 
 Skill Transfer Potential (cross-industry mobility)
-E
+E |
 Economic Necessity (socio-economic dependency factor)
 
 Scores range from 0–100.
