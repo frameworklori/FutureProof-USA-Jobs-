@@ -11,8 +11,8 @@ The Public–Private Alliance module establishes a cooperative structure among g
 Its aim is to convert layoffs into structured transitions — ensuring that automation produces social progress rather than economic fracture.
 
 Core Structure
-|-----------------|---------------------------------------------------------------------------------------------|
 
+|-----------------|---------------------------------------------------------------------------------------------|
 |Layer|Function|
 |Policy Layer (Government)|Define national re-training incentives, tax credits, and certification alignment.|
 |Enterprise Layer (Industry)|Provide internship or upskilling slots tied to real production needs.|
