@@ -1,4 +1,4 @@
-National Employment Resilience Index (NERI)
+# National Employment Resilience Index (NERI)
 
 Version: 1.0
 © 2025 LORI Framework Creator – All Rights Reserved
