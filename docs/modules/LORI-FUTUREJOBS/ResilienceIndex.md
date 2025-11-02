@@ -14,7 +14,9 @@ It offers a transparent score that helps governments, companies, and individuals
 
 Index Formula
 
-Variable
+R = (H x 0.4 ) +(A x 0.3) + (S X 0.2) + (E x 0.1)
+
+Variable 
 Definition
 H
 Human-Facing Intensity (communication, empathy, creativity)
