@@ -30,6 +30,15 @@ This index lists practical case studies demonstrating how existing worker skills
 
 ---
 
+4.# Case Index – LORI-FUTUREJOBS
+
+| Case ID | Transition Path | Description |
+|----------|----------------|--------------|
+| CASE-001 | Agri → Green Energy | Rural workers transitioning to renewable energy maintenance |
+| CASE-002 | Admin → Compliance | Administrative assistants upskilling for AI-based data compliance |
+| CASE-003 | Pharma → Nurse | Pharmacy assistants retraining as clinical support nurses |
+
+
 ## 🔑 Strategic Purpose
 These cases illustrate the **Value Recycling Principle**:
 > Jobs may disappear, but skills remain. By layering new skills, workers can transition into high-demand, AI-resilient roles.
