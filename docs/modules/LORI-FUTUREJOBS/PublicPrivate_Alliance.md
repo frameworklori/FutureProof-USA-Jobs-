@@ -1,4 +1,4 @@
-LORI Public–Private Alliance Framework
+# Public–Private Alliance Framework
 
 Version: 1.0
 © 2025 LORI Framework Creator – All Rights Reserved
