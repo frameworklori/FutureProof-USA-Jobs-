@@ -12,8 +12,8 @@ Its aim is to convert layoffs into structured transitions — ensuring that auto
 
 Core Structure
 
-|-----------------|---------------------------------------------------------------------------------------------|
 | Layer | Function |
+|-----------------|---------------------------------------------------------------------------------------------|
 | Policy Layer (Government) |Define national re-training incentives, tax credits, and certification alignment. |
 | Enterprise Layer (Industry) |Provide internship or upskilling slots tied to real production needs. |
 | Academic Layer (Education) |Update curricula to match emerging technologies and ethical labor standards.|
