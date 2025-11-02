@@ -38,6 +38,20 @@ This index lists practical case studies demonstrating how existing worker skills
 | CASE-002 | Admin → Compliance | Administrative assistants upskilling for AI-based data compliance |
 | CASE-003 | Pharma → Nurse | Pharmacy assistants retraining as clinical support nurses |
 
+---
+
+### Framework Integration
+These cases directly interact with the following modules:
+- [Capability_Map.md](../Capability_Map.md)
+- [SkillUpgrade_Pipeline.md](../SkillUpgrade_Pipeline.md)
+- [ResilienceIndex.md](../ResilienceIndex.md)
+- [PublicPrivate_Alliance.md](../PublicPrivate_Alliance.md)
+
+Each case provides empirical data points for refining the **Resilience Index** and validating **SkillUpgrade_Pipeline** transitions.
+
+---
+
+*© 2025 LORI Framework Creator – All Rights Reserved.*
 
 ## 🔑 Strategic Purpose
 These cases illustrate the **Value Recycling Principle**:
