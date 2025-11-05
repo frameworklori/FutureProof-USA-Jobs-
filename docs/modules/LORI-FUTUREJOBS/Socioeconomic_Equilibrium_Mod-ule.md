@@ -1,4 +1,4 @@
-⚖️ Socioeconomic Equilibrium Module
+# ⚖️ Socioeconomic Equilibrium Module
 
 Part of the LORI-FUTUREJOBS Framework
 © 2025 – LORI Ethical System
