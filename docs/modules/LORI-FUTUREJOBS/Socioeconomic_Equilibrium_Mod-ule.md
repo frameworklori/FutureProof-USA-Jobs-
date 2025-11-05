@@ -17,7 +17,7 @@ It is the policy and ethics extension of the Future Jobs framework—designed to
 -----
 
 | Metric | Description | 
-|-----------------|-----------------------------|
+|-----------------|--------------------------------------|
 |SCI – Social Contribution Index|Measures total civic value creation, replacing GDP as a human-centered prosperity metric.|
 |EI – Employment Integrity|Tracks the ratio of sustainable employment to total working population under AI integration.|
 |RI – Resilience Index (linked to LORI-FUTUREJOBS)|Evaluates occupational adaptability, education responsiveness, and AI-human cooperation outcomes.|
