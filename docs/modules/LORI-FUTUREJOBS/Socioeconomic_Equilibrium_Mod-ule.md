@@ -13,16 +13,17 @@ While LORI-FUTUREJOBS focuses on re-skilling and workforce transition, this modu
 It is the policy and ethics extension of the Future Jobs framework—designed to prevent societal collapse through imbalance between automation gains and human livelihood.
 
 🧮 Key Metrics
-Metric
-Description
-SCI – Social Contribution Index
-Measures total civic value creation, replacing GDP as a human-centered prosperity metric.
-EI – Employment Integrity
-Tracks the ratio of sustainable employment to total working population under AI integration.
-RI – Resilience Index (linked to LORI-FUTUREJOBS)
-Evaluates occupational adaptability, education responsiveness, and AI-human cooperation outcomes.
-EAI – Ethical Automation Impact
-Assesses the moral cost and fairness of automation on low-income and vulnerable groups.
+
+-----
+
+| Metric | Description | 
+|-----------------|-----------------------------|
+|SCI – Social Contribution Index|Measures total civic value creation, replacing GDP as a human-centered prosperity metric.|
+|EI – Employment Integrity|Tracks the ratio of sustainable employment to total working population under AI integration.|
+|RI – Resilience Index (linked to LORI-FUTUREJOBS)|Evaluates occupational adaptability, education responsiveness, and AI-human cooperation outcomes.|
+|EAI – Ethical Automation Impact|Assesses the moral cost and fairness of automation on low-income and vulnerable groups.|
+
+-----
 
 🧩 Policy Simulation Layer
 
@@ -53,17 +54,13 @@ Redistribution mechanisms may include:
 
 🔗 Integration with Other LORI Systems
 
-Module
+| Module| Integration Purpose | 
+|-----------------|-----------------------------|
 
-Integration Purpose
-LORI-FUTUREJOBS
-Provides job resilience data and workforce transition pipelines.
-ODRAF
-Supplies outcome-based risk assessments for automation policies.
-LORI-JURY
-Facilitates ethical deliberation and policy oversight.
-AIDM
-Detects and prevents manipulation or infiltration in economic simulations.
+|LORI-FUTUREJOBS|Provides job resilience data and workforce transition pipelines.|
+|ODRAF|Supplies outcome-based risk assessments for automation policies.|
+|LORI-JURY|Facilitates ethical deliberation and policy oversight.|
+|AIDM|Detects and prevents manipulation or infiltration in economic simulations.|
 
 Together, these systems create a circular governance loop:
 Automation → Redistribution → Education → Equilibrium → Reinforcement.
