@@ -1,4 +1,4 @@
-🕊️ PUBLIC RELEASE NOTE
+# 🕊️ PUBLIC RELEASE NOTE
 
 Repository: LORI-FUTUREJOBS
 Framework: LORI Ethical System
