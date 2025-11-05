@@ -45,7 +45,7 @@ Instead of seeing automation as an end, this module defines a framework where:
 
 | File | Description |
 |------|--------------|
-| ![Socioeconomic_Equilibrium_Module.md](../../Socioeconomic_Equilibrium_Mod-ule.md) | Defines macro-level balance between automation, employment, and social stability. Establishes ethical redistribution logic to ensure technological gains reinforce human dignity. |
+| [Socioeconomic_Equilibrium_Module.md](../modules/LORI-FUTUREJOBS/Socioeconomic_Equilibrium_Mod-ule.md) | Defines macro-level balance between automation, employment, and social stability. Establishes ethical redistribution logic to ensure technological gains reinforce human dignity. |
 
 ----------
 
