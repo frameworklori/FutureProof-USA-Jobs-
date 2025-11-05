@@ -56,7 +56,6 @@ Redistribution mechanisms may include:
 
 | Module| Integration Purpose | 
 |-----------------|-----------------------------|
-
 |LORI-FUTUREJOBS|Provides job resilience data and workforce transition pipelines.|
 |ODRAF|Supplies outcome-based risk assessments for automation policies.|
 |LORI-JURY|Facilitates ethical deliberation and policy oversight.|
