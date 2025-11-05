@@ -91,6 +91,15 @@ This repository constitutes the ethical and technical foundation of the **LORI F
 It is released publicly for transparency, educational collaboration, and civilizational governance research.  
 Unauthorized commercial use or alteration of the LORI Semantic Protocol is strictly prohibited.
 
+### ⚖️ Policy Extension Module
+
+| File | Description |
+|------|--------------|
+| [Socioeconomic_Equilibrium_Module.md](docs/modules/LORI-FUTUREJOBS/Socioeconomic_Equilibrium_Module.md) | Defines macro-level balance between automation, employment, and social stability. Establishes ethical redistribution logic to ensure technological gains reinforce human dignity. |
+
+
 ## License
 See ![LICENSE_FutureJobs.md](../../LICENSE_FutureJobs.md) for details.
+
+
 
