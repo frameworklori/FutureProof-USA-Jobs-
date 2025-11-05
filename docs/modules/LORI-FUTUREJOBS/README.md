@@ -3,6 +3,12 @@
 LORI-FUTUREJOBS / Module Documentation
 *(For internal reference — detailed structure of each component.)*
 
+-----
+2025 LORI Framework-All Rights Reserved
+Authored by the Founder of the LORI System
+Protected under the LORI Semantic Sovereignty Protocol (LSSP-2025)
+
+
 ## Overview
 **Future Proof – USA – Jobs** is a resilience-oriented employment framework designed to protect American workers in the AI era.
 Its core principle is simple:
