@@ -84,6 +84,13 @@ Contains example submodules demonstrating how Future Jobs logic connects with AI
 - Capability_Map.md — mapping example
 - HR_Training_Database.md — HR data integration example
 
+------
+
+  🌐 Public Declaration
+This repository constitutes the ethical and technical foundation of the LORI Framework.
+It is released publicly for transparency, educational collaboration, and civilizational governance research.
+Unauthorized commercial use or alteration of the LORI Semantic Protocol is strictly prohibited.
+
 🔒 License
 
 This project is governed by the LORI Future Jobs Module License v1.0
