@@ -80,6 +80,10 @@ LORI-FUTUREJOBS/
 └── Case_Pharma2Nurse.md
 
 ---
+### 🌐 Public Declaration
+This repository constitutes the ethical and technical foundation of the **LORI Framework**.  
+It is released publicly for transparency, educational collaboration, and civilizational governance research.  
+Unauthorized commercial use or alteration of the LORI Semantic Protocol is strictly prohibited.
 
 ## License
 See ![LICENSE_FutureJobs.md](../../LICENSE_FutureJobs.md) for details.
