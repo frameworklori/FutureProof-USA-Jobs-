@@ -4,6 +4,11 @@ Re-positioning Human Value in the Age of AI
 
 ⸻
 
+2025 LORI Framework-All Rights Reserved
+Authored by the Founder of the LORI System
+Protected under the LORI Semantic Sovereignty Protocol (LSSP-2025)
+
+
 ## 🧩 System Overview
 
 The **Future Proof – USA – Jobs** architecture visualizes how human potential, data ethics, and AI orchestration form a unified employment resilience ecosystem.
