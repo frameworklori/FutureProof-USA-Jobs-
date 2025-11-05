@@ -1,4 +1,4 @@
-⚖️ CIVIL LICENSE SUMMARY
+# ⚖️ CIVIL LICENSE SUMMARY
 
 Title: LORI Future Jobs Module — Civil Use & Ethical Collaboration Terms
 Version: v1.0
